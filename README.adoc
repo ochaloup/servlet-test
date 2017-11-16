@@ -1,0 +1,9 @@
+= Simple servlet
+
+Simple servlet used for testing.
+
+```
+mvn clean package
+cp target/servlet-test.war $JBOSS_HOME/standalone/deployments/
+```
+
